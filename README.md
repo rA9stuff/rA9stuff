@@ -1,8 +1,9 @@
 ### About Me
-I like developing utilities for iOS devices. 
+I develop various utilities for iOS devices. 
 
-### Support me on Patreon
-https://www.patreon.com/rA9stuff
+### Support me
+* https://www.buymeacoffee.com/ra9stuff
+* https://www.patreon.com/rA9stuff
 
 ### GitHub Stats
 
