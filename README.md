@@ -1,7 +1,7 @@
 ### About Me
 I develop various utilities for iOS devices. 
 
-### Support me
+### ❤️ Support the Development
 * https://www.buymeacoffee.com/ra9stuff
 * https://www.patreon.com/rA9stuff
 
